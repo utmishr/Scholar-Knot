@@ -3,6 +3,9 @@
 
 Scholar Knot is a comprehensive online platform that enables researchers and scholars to showcase their work, connect with like-minded individuals, and engage in thought-provoking discussions. It serves as a central hub where users can create detailed profiles, share their research projects, publications, and ongoing work.
 
+Demo : https://scholar-knot.onrender.com/ 
+(Please wait for 1 min to load website for first time as it is currenty hosted on render as free tier.)
+
 ## Features
 
 - **User Profiles**: Create detailed profiles showcasing your research interests, publications, ongoing projects, and more.
